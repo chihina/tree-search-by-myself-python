@@ -15,7 +15,7 @@ Adjacency matrix
 Output  
 searched tree path (We can see it on CUI) 
 
-## Contact
+## Contacts
 If you can know about detail me, you can see my website.
 
 Qitta page: https://qiita.com/chi-na  
