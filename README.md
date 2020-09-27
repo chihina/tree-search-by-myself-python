@@ -12,7 +12,7 @@ I implement three types of tree searching code.
 Input  
 Adjacency matrix  
 
-Output  
+Output 
 searched tree path (We can see it on CUI) 
 
 ## Contact
