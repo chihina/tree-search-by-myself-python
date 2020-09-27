@@ -9,5 +9,5 @@ I implement three types of tree searching code.
 4. integrated_tree_search.py... It is integrated source code. 
 
 # Description of source code
-Input: Adjacency matrix
+Input: Adjacency matrix  
 Output: searched tree path (We can see it on CUI) 
